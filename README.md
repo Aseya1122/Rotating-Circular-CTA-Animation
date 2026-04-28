@@ -17,7 +17,7 @@ Portfolio websites
 Creative agency landing pages
 “Latest Work” or “Explore” sections
 Interactive UI components
-** How to Use**
+How to Use
 Copy the HTML structure into the project
 Add the CSS styles
 Customize text and animation speed as needed
