@@ -24,4 +24,4 @@ Customize text and animation speed as needed
 **📷 Preview**
 
 A rotating circular text surrounding a centered arrow, designed for modern web interfaces.
-[(rotating circular cta animation.png)]
+[rotating circular cta animation.png]
